@@ -50,5 +50,11 @@ echo "# For full fastqc results summary of any given sample enter:"
 echo "# cat ./sampleTconame_fastqc/summary.txt"
 echo "# For example, to view fastqc summary for Tco-6307_2 enter: "
 echo "# cat ./Tco-6307_2_fastqc/summary.txt"
+echo -e "\n \n# To analyze the data enter: \n# ./analysis.sh "
+#That is the end of the quality control step :)
+
+
+
+
 #Thats the end of quality control :)
 
