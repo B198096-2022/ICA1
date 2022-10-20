@@ -245,6 +245,6 @@ echo -e "# The full average counts file can be found at allsamplesavg.txt \n \n 
 
 echo "#  to perform pairwise foldchange analysis enter:"
 echo -e "#  ./foldchange.sh sampletype_hours_ind/un sampletype_hours_ind/un \n"
-echo "#  For example to compare Clone1_48_induced to WT_48_uninduced enter:"
+echo "#  For example to compare Clone1_48_induced over WT_48_uninduced enter:"
 echo "#  ./foldchange.sh Clone1_48_ind WT_48_un"
 
